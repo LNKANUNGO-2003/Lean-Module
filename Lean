@@ -1,0 +1,11 @@
+-- Lean code for Lecture 6 of module Logic and Computation
+-- You can find the complete code at the provided URL [1].
+
+-- Example module in Lean
+namespace Greeting
+
+-- Define a simple function
+def hello : string := "Hello, Lean!"
+
+-- End of the module
+end Greeting
